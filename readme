@@ -1,0 +1,6 @@
+Bakery Problem
+Assumptions :
+a. Only two levels of bundles can be identified as given in problem statement
+b. This code is tested on windows platform
+c. To keep the assignement simple spring framework is not used
+
